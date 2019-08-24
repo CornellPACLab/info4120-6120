@@ -1,22 +1,81 @@
 {
-   "person": [
-       {
-           "firstName": "Clark",
-           "lastName": "Kent",
-           "job": "Reporter",
-           "roll": 20
-       },
-       {
-           "firstName": "Bruce",
-           "lastName": "Wayne",
-           "job": "Playboy",
-           "roll": 30
-       },
-       {
-           "firstName": "Peter",
-           "lastName": "Parker",
-           "job": "Photographer",
-           "roll": 40
-       }
-   ]
+  "Week 1 TUE": [
+    [
+      "Weiser, The Computer for the 21st Century: ",
+      "Weiser, M. (1991, September). The Computer for the 21st Century. Scientific American, 265(3), 94–100. "
+    ],
+    [
+      "The Coming Age of Calm Technology: ",
+      "Weiser, M., & Brown, J. S. (1997). The Coming Age of Calm Technology. In P. J. Denning & R. M. Metcalfe, Beyond Calculation (pp. 75–85). https://doi.org/10.1007/978-1-4612-0685-9_6. "
+    ],
+    [
+      "Yvonne Rogers commentary on Calm Technology, ten years later ",
+      "Rogers, Y. (2006). Moving on from Weiser’s Vision of Calm Computing: Engaging UbiComp Experiences. In P. Dourish & A. Friday (Eds.), UbiComp 2006: Ubiquitous Computing (Vol. 4206, pp. 404–421). https://doi.org/10.1007/11853565_24 "
+    ],
+    [
+      "Optional Reading: ",
+      "Jones-Rooy, A. (2019, July 24). I’m a data scientist who is skeptical about data. Retrieved August 11, 2019, from Quartz website: https://qz.com/1664575/is-data-science-legit/ ",
+      "Get a little skeptical of the big data. "
+    ]
+  ],
+  "Week 1 THU": [
+    [
+      "Something on big data type research"
+    ],
+    [
+      "Something on hypothesis-driven research design "
+    ],
+    [
+      "Validity and validity threats (Validity Hawk is coming for you! 🦅)"
+    ],
+    [
+      "[Optional] Baron and Kenney (the OG paper on mediation analysis, you’re almost guaranteed to be plenty confused by it unless you’ve read it and some commentary several times) "
+    ]
+  ],
+  "Week 2 TUE": [
+    [
+      "Experience sampling and longitudinal research",
+      "Yeykelis, L., Cummings, J. J., & Reeves, B. (2014). Multitasking on a Single Device: Arousal and the Frequency, Anticipation, and Prediction of Switching Between Media Content on a Computer: Multitasking and Arousal. Journal of Communication, 64(1), 167–192. https://doi.org/10/f57c3z "
+    ]
+  ],
+  "Week 2 THU": [
+    [
+      "Hammerla, N. Y., & Plötz, T. (2015). Let’s (Not) Stick Together: Pairwise Similarity Biases Cross-validation in Activity Recognition. Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing, 1041–1051. https://doi.org/10.1145/2750858.2807551"
+    ]
+  ],
+  "Week 3 TUE": [
+    ["Fogg, B. (2009). A behavior model for persuasive design. Proceedings of the 4th International Conference on Persuasive Technology, 40:1–40:7. https://doi.org/10/fgzrgh "]
+  ],
+  "Week 4": [],
+  "Week 5": [],
+  "Week 6": [
+    ["Shulevitz, J. (2018, November). Alexa, Should We Trust You? The Atlantic. Retrieved from https://www.theatlantic.com/magazine/archive/2018/11/alexa-how-will-you-change-us/570844/"],
+    [
+      "Proactivity and reactivity in social robots: Brian Mok’s drawers", 
+      " Mok, B. K., Yang, S., Sirkin, D., & Ju, W. (2015). A place for every tool and every tool in its place: Performing collaborative tasks with interactive robotic drawers. 2015 24th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), 700–706. https://doi.org/10.1109/ROMAN.2015.7333680 "],
+    [
+      "Proactive Agent for addressing loneliness and isolation in older adults: ",
+      "Ring, L., Barry, B., Totzke, K., & Bickmore, T. (2013). Addressing Loneliness and Isolation in Older Adults: Proactive Affective Agents Provide Better Support. 2013 Humaine Association Conference on Affective Computing and Intelligent Interaction, 61–66. https://doi.org/10.1109/ACII.2013.17.  "
+    ],
+    ["Where commercialization has failed – is it Uncanny Valley? Technical inadequacy? Are the designs just not good enough yet? Do we not really understand the problems? "]
+  ],
+  "Week 8": [
+    [
+      "Russell’s Circumplex (Optional Reading)",
+      "Russell, J. A. (1980). A circumplex model of affect. Journal of Personality and Social Psychology, 39(6), 1161–1178. https://doi.org/10.1037/h0077714 "
+    ],
+    ["Emotion and the face: determining emotional states using (automated) video coding "],
+    ["Ekman, P. (1993). Facial expression and emotion. American Psychologist, 48(4), 384–392. https://doi.org/10.1037/0003-066X.48.4.384 "],
+    ["McDuff, D., el Kaliouby, R., Senechal, T., Amr, M., Cohn, J. F., & Picard, R. (2013). Affectiva-MIT Facial Expression Dataset (AM-FED): Naturalistic and Spontaneous Facial Expressions Collected In-the-Wild. 2013 IEEE Conference on Computer Vision and Pattern Recognition Workshops, 881–888. https://doi.org/10.1109/CVPRW.2013.130 "],
+    [
+      "Emotion and psychophysiology (optional)", 
+      "Bradley, M. M., & Lang, P. J. (2007). Emotion and motivation. In J. T. Cacioppo, L. G. Tassinary, & G. G. Berntson (Eds.), Handbook of psychophysiology (3rd ed.) (pp. 581–607). New York, NY, US: Cambridge University Press."
+    ]
+  ],
+  "Week 9": [],
+  "Week 10": [],
+  "Week 11": [],
+  "Week 12": [],
+  "Week 13": [],
+  "Week 14": []
 }
