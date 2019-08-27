@@ -18,33 +18,49 @@
   "Week 2": {
     "Readings": [
       {
-        "Title": "Weiser, The Computer for the 21st Century: \n Weiser, M. (1991, September).The Computer for the 21st Century. Scientific American, 265(3), 94–100. ",
-        "link": "https://www.ics.uci.edu/~corps/phaseii/Weiser-Computer21stCentury-SciAm.pdf"
-      },
-      {
-        "Title": "The Coming Age of Calm Technology: \n Weiser, M., & Brown, J. S. (1997). The Coming Age of Calm Technology. In P. J. Denning & R. M. Metcalfe, Beyond Calculation (pp. 75–85). https://doi.org/10.1007/978-1-4612-0685-9_6. ",
-        "Link": "https://books.google.com/books?id=IIdjDwAAQBAJ&pg=PA293&lpg=PA293&dq=Weiser,+M.,+%26+Brown,+J.+S.+(1997).+The+Coming+Age+of+Calm+Technology.+In+P.+J.+Denning+%26+R.+M.+Metcalfe,+Beyond+Calculation+(pp.+75%E2%80%9385).+https://doi.org/10.1007/978-1-4612-0685-9_6.&source=bl&ots=eHgJBK1WU6&sig=ACfU3U3BX9jXX99LvDB_4VAL7TbAJATBfw&hl=en&sa=X&ved=2ahUKEwjwntCfraHkAhVpdt8KHSPcDxAQ6AEwAHoECAcQAQ#v=onepage&q=Weiser%2C%20M.%2C%20%26%20Brown%2C%20J.%20S.%20(1997).%20The%20Coming%20Age%20of%20Calm%20Technology.%20In%20P.%20J.%20Denning%20%26%20R.%20M.%20Metcalfe%2C%20Beyond%20Calculation%20(pp.%2075%E2%80%9385).%20https%3A%2F%2Fdoi.org%2F10.1007%2F978-1-4612-0685-9_6.&f=false"
+        "Title": "test",
+        "Link": "readings/test.pdf"
       }
     ],
     "Lab": {
-      "Title": "Research Method Workshop"
+      "Title": "Python Walk through"
     }
   },
   
   "Week 3": {
-    "Readings": [],
+    "Readings": [
+      {
+        "Title": "",
+        "Link": ""
+      }
+    ],
     "Lab": {}
   },
   "Week 4": {
-    "Readings": [],
+    "Readings": [
+      {
+        "Title": "",
+        "Link": ""
+      }
+    ],
     "Lab": {}
   },
   "Week 5": {
-    "Readings": [],
+    "Readings": [
+      {
+        "Title": "",
+        "Link": ""
+      }
+    ],
     "Lab": {}
   },
   "Week 5": {
-    "Readings": [],
+    "Readings": [
+      {
+        "Title": "",
+        "Link": ""
+      }
+    ],
     "Lab": {}
   },
   "Week 7": {
