@@ -6,70 +6,129 @@
         "Link": "https://www.ics.uci.edu/~corps/phaseii/Weiser-Computer21stCentury-SciAm.pdf"
       },
       {
-        "Title": "The Coming Age of Calm Technology: \n Weiser, M., & Brown, J. S. (1997). The Coming Age of Calm Technology. In P. J. Denning & R. M. Metcalfe, Beyond Calculation (pp. 75–85). https://doi.org/10.1007/978-1-4612-0685-9_6. ",
-        "Link": "https://books.google.com/books?id=IIdjDwAAQBAJ&pg=PA293&lpg=PA293&dq=Weiser,+M.,+%26+Brown,+J.+S.+(1997).+The+Coming+Age+of+Calm+Technology.+In+P.+J.+Denning+%26+R.+M.+Metcalfe,+Beyond+Calculation+(pp.+75%E2%80%9385).+https://doi.org/10.1007/978-1-4612-0685-9_6.&source=bl&ots=eHgJBK1WU6&sig=ACfU3U3BX9jXX99LvDB_4VAL7TbAJATBfw&hl=en&sa=X&ved=2ahUKEwjwntCfraHkAhVpdt8KHSPcDxAQ6AEwAHoECAcQAQ#v=onepage&q=Weiser%2C%20M.%2C%20%26%20Brown%2C%20J.%20S.%20(1997).%20The%20Coming%20Age%20of%20Calm%20Technology.%20In%20P.%20J.%20Denning%20%26%20R.%20M.%20Metcalfe%2C%20Beyond%20Calculation%20(pp.%2075%E2%80%9385).%20https%3A%2F%2Fdoi.org%2F10.1007%2F978-1-4612-0685-9_6.&f=false"
+        "Title": "The Coming Age of Calm Technology: \n Weiser, M., & Brown, J. S. (1997). The Coming Age of Calm Technology. In P. J. Denning & R. M. Metcalfe, Beyond Calculation (pp. 75–85).",
+        "Link": " https://doi.org/10.1007/978-1-4612-0685-9_6."
+      },
+      {
+        "Title": "Yvonne Rogers commentary on Calm Technology, ten years later \n Rogers, Y. (2006). Moving on from Weiser’s Vision of Calm Computing: Engaging UbiComp Experiences. In P. Dourish & A. Friday (Eds.), UbiComp 2006: Ubiquitous Computing (Vol. 4206, pp. 404–421).",
+        "Link": "https://doi.org/10.1007/11853565_24"
       }
     ],
     "Lab": {
-      "Title": "Research Method Workshop"
+      "Title": "Research Method Workshop",
+      "Readings": [
+        {
+          "Title": "A brief introduction to research design and validity: Experimental Research by Paul C. Price, Rajiv Jhangiani, I-Chant A. Chiang, Dana C. Leighton, & Carrie Cuttler, chapter 5.  Please read the whole chapter, it’s not very long. ",
+          "Link": "https://opentext.wsu.edu/carriecuttler/part/chapter-6-experimental-research/"
+        },
+        {
+          "Title": "Optional reading: Shadish, Cook, and Campbell’s  \n Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). Experimental and quasi-experimental designs for generalized causal inference. Boston, MA, US: Houghton, Mifflin and Company.",
+          "Link": "https://pdfs.semanticscholar.org/9453/f229a8f51f6a95232e42acfae9b3ae5345df.pdf"
+        },
+        {
+          "Title": "[&diams;Optional] Reichardt, C. S. (2011). Criticisms of and an alternative to the Shadish, Cook, and Campbell validity typology. New Directions for Evaluation, 2011(130), 43–53.",
+          "Link": "https://doi.org/10.1002/ev.364"
+        }
+      ]
     }
   },
 
   "Week 2": {
     "Readings": [
       {
-        "Title": "test",
-        "Link": "readings/test.pdf"
+        "Title": "Yeykelis, L., Cummings, J. J., & Reeves, B. (2014). Multitasking on a Single Device: Arousal and the Frequency, Anticipation, and Prediction of Switching Between Media Content on a Computer: Multitasking and Arousal. Journal of Communication, 64(1), 167–192.",
+        "Link": "https://doi.org/10/f57c3z"
       }
     ],
     "Lab": {
-      "Title": "Python Walk through"
+      "Title": "Student life project relevance and assignment"
     }
   },
   
   "Week 3": {
     "Readings": [
       {
-        "Title": "",
-        "Link": ""
+        "Title": "Fogg, B. (2009). A behavior model for persuasive design. Proceedings of the 4th International Conference on Persuasive Technology, 40:1–40:7.",
+        "Link": "https://doi.org/10/fgzrgh"
+      },
+      {
+        "Title": "Rabbi, M., Aung, M. H., Zhang, M., & Choudhury, T. (2015). MyBehavior: Automatic personalized health feedback from user behaviors and preferences using smartphones. Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing - UbiComp’15, 707–718.",
+        "Link": "https://doi.org/10.1145/2750858.2805840"
+      },
+      {
+        "Title": "[&diams;Optional] Adams, A. T., Costa, J., Jung, M. F., & Choudhury, T. (2015). Mindless computing: Designing technologies to subtly influence behavior. Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing - UbiComp ’15, 719–730.",
+        "Link": "https://doi.org/10.1145/2750858.2805843"
       }
     ],
-    "Lab": {}
+    "Lab": {
+      "Title": "HR data: bioregulation and performance"
+    }
   },
   "Week 4": {
     "Readings": [
       {
-        "Title": "",
+        "Title": "Karen’s paper on exposing images from nursing home – privacy value vs data value",
         "Link": ""
       }
     ],
-    "Lab": {}
+    "Lab": {
+      "Title": "Run privacy checkup for google and phone "
+    }
   },
   "Week 5": {
     "Readings": [
       {
-        "Title": "",
+        "Title": "TBD",
         "Link": ""
       }
     ],
-    "Lab": {}
+    "Lab": {
+      "Title": "Activity and location"
+    }
   },
-  "Week 5": {
+  "Week 6": {
     "Readings": [
       {
-        "Title": "",
-        "Link": ""
+        "Title": "Russell, J. A. (1980). A circumplex model of affect. Journal of Personality and Social Psychology, 39(6), 1161–1178.",
+        "Link": "https://doi.org/10.1037/h0077714 "
+      },
+      {
+        "Title": "Ekman, P. (1993). Facial expression and emotion. American Psychologist, 48(4), 384–392.",
+        "Link": "https://doi.org/10.1037/0003-066X.48.4.384"
+      },
+      {
+        "Title":"McDuff, D., el Kaliouby, R., Senechal, T., Amr, M., Cohn, J. F., & Picard, R. (2013). Affectiva-MIT Facial Expression Dataset (AM-FED): Naturalistic and Spontaneous Facial Expressions Collected In-the-Wild. 2013 IEEE Conference on Computer Vision and Pattern Recognition Workshops, 881–888.",
+        "Link": "https://doi.org/10.1109/CVPRW.2013.130 "
+      },
+      {
+        "Title": "[&diams; Optional]Emotion and psychophysiology \n Bradley, M. M., & Lang, P. J. (2007). Emotion and motivation. In J. T. Cacioppo, L. G. Tassinary, & G. G. Berntson (Eds.), Handbook of psychophysiology (3rd ed.) (pp. 581–607). New York, NY, US: Cambridge University Press. "
       }
     ],
-    "Lab": {}
+    "Lab": {
+      "Title": "Use affectiva SDK or other face-coding engine to see what happens with posed vs. evoked faces"
+    }
   },
   "Week 7": {
-    "Readings": [],
-    "Lab": {}
+    "Readings": [
+      {
+        "Title": "Fall break",
+        "Link": ""
+      }
+    ],
+    "Lab": {
+      "Title": "Project Proposal presentations in lab"
+    }
   },
   "Week 8": {
-    "Readings": [],
-    "Lab": {}
+    "Readings": [
+      {
+        "Title": "TBD",
+        "Link": ""
+      }
+    ],
+    "Lab": {
+      "Title": "TBD"
+    }
   },
   "Week 9": {
     "Readings": [],

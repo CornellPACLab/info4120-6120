@@ -1,4 +1,8 @@
 $(function() {
+	var LAB = "Lab"
+	var READINGS = "Readings"
+	var TITLE = "Title"
+	var LINK = "Link"
 	// var people = [];
 	// $.getJSON('json/readings.json', function(data) {
 	// 	for (week in data) {
@@ -35,24 +39,33 @@ $(function() {
 			$(weekRow).appendTo("#" + modalName + " .wrapper")
 
 			//add readings
-			$("<p class='item-intro text-muted'>Readings</p>").appendTo("#" + modalName + " .wrapper")
-			$("<ul></ul>").appendTo("#" + modalName + " .wrapper")
-			var readings = data[week]["Readings"]
-			readings.forEach(function (reading){
-				$("<li></li>").appendTo("#" + modalName +" .wrapper ul:last")	
-				$("<p>" + reading["Title"].replace("\n", "<br>") +"</p>").appendTo("#" + modalName +" .wrapper li:last")
-				$("<a href='" + reading["Link"] +"'>PDF&rarr;</a>").appendTo("#" + modalName +" .wrapper li:last p:last")
-			})
+			appendIntro(modalName,READINGS)
+			appendReadings(modalName,data[week][READINGS])
 
 			//add lab
-			$("<p class='item-intro text-muted'>Lab</p>").appendTo("#" + modalName + " .wrapper")
-			$("<ul></ul>").appendTo("#" + modalName + " .wrapper")
-			var lab = data[week]["Lab"]
-			for (item in lab) {
-				$("<li></li>").appendTo("#" + modalName +" .wrapper ul:last")	
-				// $("<p>" + item + ": " +lab[item] +"</p>").appendTo("#" + modalName +" .wrapper li:last")
-				$("<p>" +lab[item] +"</p>").appendTo("#" + modalName +" .wrapper li:last")
+			appendIntro(modalName,LAB)
+			appendLabTitle(modalName, data[week][LAB][TITLE])
+			if (READINGS in data[week][LAB]){
+				$("<p>Readings for Lab</p>").appendTo("#" + modalName + " .wrapper")
+				appendReadings(modalName, data[week][LAB][READINGS])
 			}
 		}
 	});
+	function appendIntro(modalName, heading) {//append an grep title to the wrapper in the modal
+		$("<p class='item-intro text-muted'>" + heading + "</p>").appendTo("#" + modalName + " .wrapper")
+	}
+	function appendReadings(modalName, data) {//append an ul(unordered list) to the wrapper in the modal
+		$("<ul></ul>").appendTo("#" + modalName + " .wrapper")
+		data.forEach(function (reading){
+			$("<li></li>").appendTo("#" + modalName +" .wrapper ul:last")	
+			$("<p>" + reading[TITLE].replace("\n", "<br>") +"</p>").appendTo("#" + modalName +" .wrapper li:last")
+			$("<a href='" + reading[LINK] +"'> &rarr;</a>").appendTo("#" + modalName +" .wrapper li:last p:last")
+		})
+	}
+
+	function appendLabTitle(modalName, labTitle) {//append a ul
+		$("<ul></ul>").appendTo("#" + modalName + " .wrapper")
+		$("<li></li>").appendTo("#" + modalName +" .wrapper ul:last")
+		$("<p>" + labTitle +"</p>").appendTo("#" + modalName +" .wrapper li:last")
+	}
 });
