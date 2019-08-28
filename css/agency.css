@@ -358,6 +358,12 @@ header.masthead .intro-text .intro-heading {
   text-align: left;
 }
 
+.portfolio-modal .modal-content ul {
+  margin-top: 0;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
 }
